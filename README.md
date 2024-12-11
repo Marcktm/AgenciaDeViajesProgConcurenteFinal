@@ -58,7 +58,7 @@ Este proyecto implementa una **Red de Petri** que modela un sistema de gestión 
 
 1. Clonar este repositorio:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/Marcktm/AgenciaDeViajesProgConcurenteFinal.git
    ```
 2. Compilar y ejecutar el programa:
    ```bash
